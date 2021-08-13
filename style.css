@@ -1,0 +1,27 @@
+#mpb, #htb, #etb, #rb, #etob, #htob, #htnb, #etnb{
+  background-color: navy;
+}
+#main_h1, #hel_times_go, #edu_times_go, #ref_go_go, #inf, #hth, #online_go_go, #normal_go_go, #eth, #rh, #etoh, #htoh, #htnh, #etnh, #inf, #ref{
+    color:darkorange;
+}
+#article_1:hover, #article_2:hover, #article_3:hover, #article_4:hover, #article_1_health:hover, #article_2_health:hover, #article_3_health:hover, #article_4_health:hover{
+  cursor: crosshair;
+  transform: scale(0.9);
+}
+#article_2, #article_1, #article_3, #article_1_health{
+  margin-left: 350px;
+}
+#article_4{
+  height: 300px;
+  width: 600px;
+  margin-left: 250px;
+}
+#article_2_health{
+  margin-left: 300px;
+}
+#article_3_health{
+  margin-left: 280px;
+}
+#article_4_health{
+  margin-left: 225px;
+}
